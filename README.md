@@ -1,5 +1,7 @@
 
 ## 🌟 My Journey Through the "5-Day Gen AI Intensive Course with Google"
+![image](https://github.com/user-attachments/assets/5e9f0b42-a887-48dd-b018-ca59484ec221)
+
 Welcome to this repository, where I share my learning journey and insights from the "5-Day Gen AI Intensive Course with Google", held from Monday, November 11 to Friday, November 15.
 ## 🗓️ Course Overview
 This 5-day intensive course, hosted by Google, focused on the concepts and applications of Generative AI (Gen AI). It enabled me to:
